@@ -21,5 +21,5 @@ total_weight: 1,410.0 lbs
 
 Image:
 ------
-![diagram](./vanbuild.jpg)
+![diagram](./images/vanbuild.jpg)
 
