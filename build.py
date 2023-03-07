@@ -74,8 +74,8 @@ mdFile.new_header(level=2,title='Image:')
 mdFile.new_line('![diagram](./images/vanbuild.jpg)')
 
 mdFile.new_header(level=2,title='Current Promaster Estimates:')
-mdFile.new_line("* total cost: "+str(total_cost))
-mdFile.new_line("* total weight: "+str(total_weight))
+mdFile.new_line("* total cost: "+str('$') + format(total_cost, ',.2f'))
+mdFile.new_line("* total weight: "+format(total_weight,',.2f')+'lbs')
 
 print(str(build_items))
 
