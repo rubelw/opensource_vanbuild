@@ -4,6 +4,9 @@ The intent of this repository is to determine all the components, costs and weig
 
 This repository is currently modeled for the future Promaster Electric Vans, but more vans can be added as needed.
 
+To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xml file and save to your local computer.  Then go to https://app.diagrams.net/ and open the file
+to see all the links, and to modify to your own needs.  If you find and error, or issue, please post back to https://github.com/rubelw/opensource_vanbuild/issues 
+
 
 The design includes:
 ---------------------
