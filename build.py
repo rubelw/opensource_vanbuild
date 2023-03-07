@@ -23,7 +23,7 @@ for item in root.findall('./diagram/mxGraphModel/root/'):
         if 'label' in item.attrib:
             label = None
             print('label:'+str(item.attrib['label']))
-            data = {}
+            data = {'cost':0,'weight':0,'link':'None'}
             if 'cost:' in item.attrib['label']:
 
                 lines = str(item.attrib['label']).split("\n")
@@ -45,12 +45,11 @@ for item in root.findall('./diagram/mxGraphModel/root/'):
                         else:
                             total_weight = total_weight + float(suffix)
                             data['weight'] = float(suffix)
-                    else:
-                        data['weight'] = 0
+
                 if 'link' in item.attrib:
                     data['link']= item.attrib['link']
-                else:
-                    data['link']= 'None'
+
+
             build_items[label]= data
 
 
