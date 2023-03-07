@@ -23,8 +23,8 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 ![diagram](./images/vanbuild.jpg)
 ## Current Promaster Estimates:
   
-* total cost: $32,183.31  
-* total weight: 2,078.80lbs  
+* total cost: $32,783.31  
+* total weight: 2,118.80lbs  
 
 |Items|Cost|Weight|Link|
 | :--- | :--- | :--- | :--- |
@@ -142,6 +142,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |Weboot|520.0|10.0|https://powerfulsignal.com/weboost-drive-reach-rv-cell-signal-booster/?sku=470354&gclid=EAIaIQobChMI_b-63qOz_QIV8xitBh0i2wJBEAQYAiABEgI-h_D_BwE|
 |Swivel Seats|576.0|60.0|https://vanupgrades.com/collections/promaster-accessories-seat-swivels-awnings/products/promaster-swivel-seat-base-adapter-with-offset-pivot|
 |Wool|600.0|10.0|https://shop.havelockwool.com/?utm_term=&utm_campaign=Shopping&utm_source=adwords&utm_medium=ppc&hsa_acc=3434447461&hsa_cam=18313544632&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIyIy3q7G-_QIVt8mUCR0u_w0DEAAYASAAEgLG0PD_BwE|
+|Mattress|600.0|40.0|https://rvmattress.com/products/brooklyn-arctic?variant=32523156619311&dt=25&salename=End+Of+Winter&saleends=03-07-2023&gclid=CjwKCAiA3pugBhAwEiwAWFzwdUB3FL8D95cg1ZkVSX8W32J0S6TxzWSiV-S6MsKKaYMDlqxs0-09gRoCIMMQAvD_BwE|
 |television|665.95|22.0|https://www.amazon.com/dp/B07YYXBG2C?tag=track-ect-usa-987136-20&linkCode=osi&th=1&psc=1|
 |sliding door window|690.95|40.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125601218630|
 |dewalt tool kit|730.0|0|https://www.amazon.com/DEWALT-DCK1020D2-20V-Combo-Kit/dp/B0773CS85H/ref=sr_1_6?crid=19YMJI6ICIR0N&keywords=dewalt%2Bjigsaw%2Bgrinder%2Bkit&qid=1678065611&s=hi&sprefix=dewalt%2Bjigsaw%2Bgrinder%2Bkit%2Ctools%2C112&sr=1-6&th=1|
