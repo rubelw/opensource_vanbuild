@@ -47,6 +47,10 @@ for item in root.findall('./diagram/mxGraphModel/root/'):
                             data['weight'] = float(suffix)
                     else:
                         data['weight'] = 0
+                if 'link' in item.attrib:
+                    data['link']= item.attrib['link']
+                else:
+                    data['link']= 'None'
             build_items[label]= data
 
 
@@ -74,22 +78,23 @@ mdFile.new_line("* total cost: "+str(total_cost))
 mdFile.new_line("* total weight: "+str(total_weight))
 
 print(str(build_items))
-list_of_strings = ["Items", "Cost", "Weight"]
-row_counter=1
+
 
 # Reorder build items by cost
 build_list = []
 for item in build_items:
     if item:
-        build_list.append([str(item),build_items[item]['cost'], build_items[item]['weight']])
+        build_list.append([str(item),build_items[item]['cost'], build_items[item]['weight'], build_items[item]['link']])
 
 sorted_build_list=sorted(build_list,key=lambda x: x[1])
 
+list_of_strings = ["Items", "Cost", "Weight",'Link']
+row_counter=1
 for item in sorted_build_list:
     list_of_strings.extend(item)
     row_counter = row_counter + 1
 
-#print(str(row_counter))
+print(str(row_counter))
 #for item in build_items:
 #    if item:
 #        print(item)
@@ -98,7 +103,7 @@ for item in sorted_build_list:
 #        row_counter= row_counter+1
 
 mdFile.new_line()
-mdFile.new_table(columns=3, rows=row_counter, text=list_of_strings, text_align='center')
+mdFile.new_table(columns=4, rows=row_counter, text=list_of_strings, text_align='left')
 
 
 
