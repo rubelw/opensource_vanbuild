@@ -23,8 +23,8 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 ![diagram](./images/vanbuild.jpg)
 ## Current Promaster Estimates:
   
-* total cost: 27595.310000000027  
-* total weight: 1554.0  
+* total cost: 27895.310000000027  
+* total weight: 1675.8000000000002  
 
 |Items|Cost|Weight|Link|
 | :--- | :--- | :--- | :--- |
@@ -128,18 +128,19 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |driver side cargo window|260.0|30.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125601153094|
 |passenger side cargo window|260.0|30.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125601415238|
 |1 inch MNPT connector|271.0|0|https://www.amazon.com/dp/B08HW1VRJC/ref=emc_b_5_i?th=1|
+|Recovery Traks|300.0|0|https://usactiontrax.com/?gclid=EAIaIQobChMI3Pa53KO-_QIV6RXUAR2P6wedEAAYASAAEgLL3fD_BwE|
 |Roof Fan|300.0|0|https://www.amazon.com/Maxxair-00-06200K-MaxxFan-Ventillation-Opening/dp/B002OW5JIU/ref=as_li_ss_tl?ie=UTF8&qid=1463781812&sr=8-1&keywords=Maxxair%2BMaxxFan%2BVentillation%2BFan%2Bwith%2BLid%2Band%2BManual%2BOpening%2BKeypad%2BControl&language=en_US&th=1|
 |28 gallons|350.0|250.0|https://nomadicsupply.com/product/ram-promaster-28-gallon-wheel-well-water-tank-pm-c-28/?gclid=EAIaIQobChMI1KLOzcXF_QIV53NvBB1aggNIEAQYASABEgJDfvD_BwE|
-|Bug Screen|390.0|0|https://www.amazon.com/VanEssential-Rear-Door-Bug-Screen/dp/B0BNNXFPHJ/ref=asc_df_B0BNNXFPHJ/?tag=hyprod-20&linkCode=df0&hvadid=642205155569&hvpos=&hvnetw=g&hvrand=13299449237336553324&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1944595007922&gclid=CjwKCAiAjPyfBhBMEiwAB2CCIq3gB9Nfqo1hTwEO_VOee0l63fjakob_s9qLOiQRliyaBREKWUwbSBoCpuQQAvD_BwE&th=1|
+|Bug Screen|390.0|6.0|https://www.amazon.com/VanEssential-Rear-Door-Bug-Screen/dp/B0BNNXFPHJ/ref=asc_df_B0BNNXFPHJ/?tag=hyprod-20&linkCode=df0&hvadid=642205155569&hvpos=&hvnetw=g&hvrand=13299449237336553324&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1944595007922&gclid=CjwKCAiAjPyfBhBMEiwAB2CCIq3gB9Nfqo1hTwEO_VOee0l63fjakob_s9qLOiQRliyaBREKWUwbSBoCpuQQAvD_BwE&th=1|
 |sklylight|503.1|20.0|https://www.ebay.com/itm/134467251243?chn=ps&mkevt=1&mkcid=28&srsltid=Ad5pg_H9f2pUhbMpIZHqWF_XhSSMLutUjHNto2vYjDrlZ2Nhorqsr2uaIrg|
 |Weboot|520.0|0|https://powerfulsignal.com/weboost-drive-reach-rv-cell-signal-booster/?sku=470354&gclid=EAIaIQobChMI_b-63qOz_QIV8xitBh0i2wJBEAQYAiABEgI-h_D_BwE|
-|Swivel Seats|576.0|0|https://vanupgrades.com/collections/promaster-accessories-seat-swivels-awnings/products/promaster-swivel-seat-base-adapter-with-offset-pivot|
-|Wool|600.0|0|https://shop.havelockwool.com/?utm_term=&utm_campaign=Shopping&utm_source=adwords&utm_medium=ppc&hsa_acc=3434447461&hsa_cam=18313544632&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIyIy3q7G-_QIVt8mUCR0u_w0DEAAYASAAEgLG0PD_BwE|
+|Swivel Seats|576.0|60.0|https://vanupgrades.com/collections/promaster-accessories-seat-swivels-awnings/products/promaster-swivel-seat-base-adapter-with-offset-pivot|
+|Wool|600.0|10.0|https://shop.havelockwool.com/?utm_term=&utm_campaign=Shopping&utm_source=adwords&utm_medium=ppc&hsa_acc=3434447461&hsa_cam=18313544632&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIyIy3q7G-_QIVt8mUCR0u_w0DEAAYASAAEgLG0PD_BwE|
 |television|665.95|0|https://www.amazon.com/dp/B07YYXBG2C?tag=track-ect-usa-987136-20&linkCode=osi&th=1&psc=1|
 |sliding door window|690.95|40.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125601218630|
 |dewalt tool kit|730.0|0|https://www.amazon.com/DEWALT-DCK1020D2-20V-Combo-Kit/dp/B0773CS85H/ref=sr_1_6?crid=19YMJI6ICIR0N&keywords=dewalt%2Bjigsaw%2Bgrinder%2Bkit&qid=1678065611&s=hi&sprefix=dewalt%2Bjigsaw%2Bgrinder%2Bkit%2Ctools%2C112&sr=1-6&th=1|
 |driver side window|799.95|40.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125600858182|
-|Side Step|853.61|0|https://upfitsupply.com/product/havis-pt-a-204/|
+|Side Step|853.61|37.0|https://upfitsupply.com/product/havis-pt-a-204/|
 |ThermoFilm|1000.0|0|https://us.thermosoft.com/floor-heating/systems/thermofilm-mats|
 |toilet|1030.0|28.0|https://www.amazon.com/Natures-Head-Contained-Composting-Quarters/dp/B009Z7EKIC/ref=asc_df_B009Z7EKIC/?tag=hyprod-20&linkCode=df0&hvadid=198085216748&hvpos=&hvnetw=g&hvrand=1926568631294804807&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-348540306220&psc=1|
 |air conditioner|1199.0|99.0|https://www.amazon.com/Dometic-640315C-Penguin-Profile-Conditioner/dp/B00NRDHTVA/ref=as_li_ss_tl?dchild=1&keywords=dometic+ac+penguin+2&qid=1598916181&s=automotive&sr=1-1&language=en_US|
