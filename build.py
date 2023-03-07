@@ -76,12 +76,26 @@ mdFile.new_line("* total weight: "+str(total_weight))
 print(str(build_items))
 list_of_strings = ["Items", "Cost", "Weight"]
 row_counter=1
+
+# Reorder build items by cost
+build_list = []
 for item in build_items:
     if item:
-        print(item)
-        print(str(build_items[item]))
-        list_of_strings.extend([str(item),build_items[item]['cost'], build_items[item]['weight']])
-        row_counter= row_counter+1
+        build_list.append([str(item),build_items[item]['cost'], build_items[item]['weight']])
+
+sorted_build_list=sorted(build_list,key=lambda x: x[1])
+
+for item in sorted_build_list:
+    list_of_strings.extend(item)
+    row_counter = row_counter + 1
+
+#print(str(row_counter))
+#for item in build_items:
+#    if item:
+#        print(item)
+#        print(str(build_items[item]))
+#        list_of_strings.extend([str(item),build_items[item]['cost'], build_items[item]['weight']])
+#        row_counter= row_counter+1
 
 mdFile.new_line()
 mdFile.new_table(columns=3, rows=row_counter, text=list_of_strings, text_align='center')
