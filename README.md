@@ -23,8 +23,8 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 ![diagram](./images/vanbuild.jpg)
 ## Current Promaster Estimates:
   
-* total cost: $32,524.33  
-* total weight: 1,899.80lbs  
+* total cost: $33,136.33  
+* total weight: 1,979.80lbs  
 
 |Items|Cost|Weight|Link|
 | :--- | :--- | :--- | :--- |
@@ -83,6 +83,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |primer|22.0|0|https://www.amazon.com/gp/product/B0009XEJFU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0009XEJFU&linkCode=as2&tag=lovicarious-20&linkId=1469556f2795a0063c2dc84828fa7be7|
 |1/2" x 1/2" Faucet Connector|23.0|0|https://www.amazon.com/SharkBite-24687-Straight-Connector-equipment/dp/B085WRZX2Q/ref=sr_1_2?crid=JG1PQZIHW7MK&keywords=sharkbite%2B1%2F2%22%2Bto%2B1%2F2%22%2BNPSM%2Bfaucet%2Bconnector%2Bpush%2Bto%2Bconnect&qid=1677457185&s=hi&sprefix=sharkbite%2B1%2F2%2Bto%2B1%2F2%2Bnpsm%2Bfaucet%2Bconnector%2Bpush%2Bto%2Bconnect%2Ctools%2C107&sr=1-2&th=1|
 |self leveling sealant|23.0|0|https://www.amazon.com/Dicor-Self-Leveling-Lap-Sealant-2/dp/B00H554R98/ref=asc_df_B00H554R98/?tag=hyprod-20&linkCode=df0&hvadid=533465893083&hvpos=&hvnetw=g&hvrand=2101072710905818481&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1388758333851&psc=1|
+|Double Angle Exrusion|23.0|0|https://www.reliablehardware.com/18inchdoubleanglealuminumextrusion.aspx|
 |underlayment|24.0|1.0|https://www.amazon.com/3in1-Flooring-Underlayment-Barrier-Bestlaminate/dp/B07YWX588P/ref=asc_df_B07YWX588P/?tag=hyprod-20&linkCode=df0&hvadid=385182471061&hvpos=&hvnetw=g&hvrand=16405675717169647709&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-836562045744&psc=1&tag=&ref=&adgrpid=80210701324&hvpone=&hvptwo=&hvadid=385182471061&hvpos=&hvnetw=g&hvrand=16405675717169647709&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-836562045744|
 |builders paper|25.0|0|https://www.amazon.com/30-x-200-Kraft-Paper/dp/B09Q4WRGVJ/ref=sr_1_3_sspa?crid=320W3TEGVEDRO&keywords=builders+paper+roll&qid=1677943081&s=hi&sprefix=builders+paper+roll%2Ctools%2C110&sr=1-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNzNIMFNBQUJaSFpKJmVuY3J5cHRlZElkPUEwMzI3MTAyMTI2U1RIV1ZMWVpCMyZlbmNyeXB0ZWRBZElkPUEwMTQ5NzI0M1U0WjRRQ05HSFpBVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=|
 |Fire Extinquisher|25.0|6.0|https://www.amazon.com/First-Alert-1038789-Standard-Extinguisher/dp/B01LTICQYE/ref=pd_bxgy_vft_none_img_sccl_1/137-6363659-7538262?pd_rd_w=FXsAP&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=J9FRAPPRT08N9DPHK15R&pd_rd_wg=mv6Zk&pd_rd_r=b030fb34-f1fc-48d2-87ff-49058e585e8e&pd_rd_i=B01LTICQYE&th=1|
@@ -110,6 +111,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |Exterior water|64.0|2.0|https://www.amazon.com/Dura-Faucet-Exterior-Connect-Settings/dp/B07JNJ9HTZ/ref=asc_df_B07JNJ9HTZ/?tag=hyprod-20&hvadid=321618521200&hvpos=&hvnetw=g&hvrand=15573357742666850224&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-628498997213&th=1|
 |kilmat 80mi|64.99|12.0|https://www.amazon.com/Kilmat-Deadening-automotive-Insulation-dampening/dp/B0751CBXBT/ref=as_li_ss_tl?ie=UTF8&qid=1528219946&sr=8-1&keywords=kilmat+80+mil&linkCode=sl1&tag=lovicarious-20&linkId=1595f2189d1b18b92054d1a4abbd10f1|
 |Primer|65.0|0|https://www.amazon.com/3M-08681-Single-Step-Primer/dp/B000PEZAU6/ref=pd_bxgy_vft_none_img_sccl_1/131-5855572-4033252?pd_rd_w=GVnXV&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=YPREFPM95G3YHWB4F4KK&pd_rd_wg=DIsyh&pd_rd_r=e817f824-7d47-411e-8cea-93cc120add4d&pd_rd_i=B000PEZAU6&psc=1|
+|1/8" white HDPE Panel|70.0|18.0|https://www.menards.com/main/building-materials/panel-products/plastic-utility-panels/1-8-x-4-x-8-hdpe-panel/whthdpe48x96x118/p-1561703293083-c-14048.htm|
 |Gray Water Tank|75.0|9.0|https://www.amazon.com/YITAHOME-Capacity-Portable-Catching-Odorless/dp/B0BRSZVJW2/ref=sr_1_31?keywords=portable+grey+water+tank&qid=1678239290&sr=8-31&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc|
 |kilmat 50mil|75.99|12.0|https://www.amazon.com/Kilmat-Deadening-automotive-Insulation-dampening/dp/B0751G6TMV/ref=as_li_ss_tl?s=automotive&ie=UTF8&qid=1528220003&sr=1-1&keywords=kilmat+50+mil&linkCode=sl1&tag=lovicarious-20&linkId=f0235acd05c3b7d22e47f5e2b7c2ab5b|
 |Recirculating Shower Tank|78.49|5.0|https://www.usplastic.com/catalog/item.aspx?itemid=134152&v1=&v7=&gclid=EAIaIQobChMIj_SGqfy2_QIVG8mUCR2AEQ-rEAQYBCABEgIWqPD_BwE|
@@ -128,6 +130,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |Water Heater|180.0|0|https://www.amazon.com/Rheem-Heating-RTEX-04-Residential-Tankless/dp/B01N7U5S0G/ref=asc_df_B01N7U5S0G/?tag=hyprod-20&linkCode=df0&hvadid=198079373928&hvpos=&hvnetw=g&hvrand=8190732896451841239&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-319346710250&psc=1|
 |Caulk Gun|200.0|0|https://www.amazon.com/DEWALT-DCE560B-10oz-300ml-Adhesive/dp/B01J6KTBI6/ref=sr_1_5?c=ts&keywords=Hand%2BCaulking%2BGuns&qid=1678211533&refinements=p_36%3A1253531011&s=power-hand-tools&sr=1-5&ts_id=553140&th=1|
 |Thermostat|208.0|0|https://us.thermosoft.com/floor-heating/systems/thermofilm-mats|
+|Shower Door|240.0|8.0|https://shop.stoett.com/nautilus-retractable-shower-doors-for-rv/?attribute_pa_application=rv|
 |foam floor panels|247.99|10.0|https://diyvan.com/collections/minicell/products/minicell-floor-insulation-packages-for-the-promaster-vans|
 |fabric|250.0|5.0|https://www.housefabric.com/Duramax-Silver-Commercial-Fabric-P248735.aspx?gclid=Cj0KCQiAgOefBhDgARIsAMhqXA41y1yIsB5DQXYcBLVKA58n0wSgDYqo9W1f3t0VFuxhkEndr0atGbYaAmAXEALw_wcB|
 |driver side cargo window|260.0|30.0|https://vanwindowsdirect.com/products/crl-ram-promaster-van-windows?variant=40125601153094|
