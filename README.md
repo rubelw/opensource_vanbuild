@@ -23,7 +23,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 ![diagram](./images/vanbuild.jpg)
 ## Current Promaster Estimates:
   
-* total cost: $36,456.97  
+* total cost: $36,473.97  
 * total weight: 2,143.80lbs  
 
 |Items|Cost|Weight|Link|
@@ -70,7 +70,6 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |1/2" pex barb to 3/4" NPT|10.0|0|https://www.amazon.com/Threaded-Adapter-Fitting-SharkBite-UC116LF/dp/B07RB6WM9R/ref=sr_1_14?crid=25RN4QDWKK7JA&keywords=1/2+pex+to+3/4+NPT+male&qid=1678237710&sprefix=1/2+pex+to+3/4+npt+male,aps,137&sr=8-14|
 |fill gaps near walls|11.79|0|https://www.amazon.com/GREAT-STUFF-Cracks-Insulating-Sealant/dp/B0002YX98O/ref=as_li_ss_tl?imprToken=CSaL9UUQNocA50eRUBBd1g&slotNum=1&ie=UTF8&qid=1466478201&sr=8-2&keywords=great%2Bstuff%2Bgap&linkCode=ll1&tag=faroutride-20&linkId=21877ec2d49161e3a2aee8c150fecf7e&language=en_US&th=1|
 |Foam Glue|12.0|1.0|https://www.amazon.com/GE-Silicone-10-1-Ounce-Cartridge-GE5000/dp/B0000CBJ7W/ref=as_li_ss_tl?&imprToken=CSaL9UUQNocA50eRUBBd1g&slotNum=6&ie=UTF8&qid=1469064514&sr=8-2&keywords=ge+silicone+ii&linkCode=ll1&tag=faroutride-20&linkId=b8f18077e9c88e3c0778a172f11c0fb1&language=en_US|
-|hard board for templating|12.0|0|https://www.menards.com/main/building-materials/panel-products/hardboard-pegboard/4-x-8-hardboard-panel/1291164/p-1444431329687-c-13340.htm|
 |electrical connector kit|12.0|0|https://www.amazon.com/Insulated-Wire-Electrical-Connectors-Assortment/dp/B08769KV7V/ref=asc_df_B08769KV7V/?tag=hyprod-20&linkCode=df0&hvadid=475855610140&hvpos=&hvnetw=g&hvrand=8212450915338549559&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1130482380708&th=1|
 |Aluminum Edging|12.71|1.0|https://www.amazon.com/M-D-Building-Products-78022-36-Inch/dp/B000CSIJ5I/ref=as_li_ss_tl?&imprToken=CSaL9UUQNocA50eRUBBd1g&slotNum=8&ie=UTF8&qid=1517525418&sr=8-1&keywords=stair+edging+aluminum&linkCode=ll1&tag=faroutride-20&linkId=20b7581b69a9169bd5d3ac1c3b1a3276&language=en_US|
 |Degreaser/Cleaner|13.0|0|https://www.amazon.com/13005CT-Industrial-Cleaner-Degreaser-Concentrated/dp/B0000AXNO5/ref=asc_df_B0000AXNO5/?tag=hyprod-20&linkCode=df0&hvadid=198085085693&hvpos=&hvnetw=g&hvrand=13795921941163658110&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-348618333346&psc=1|
@@ -129,6 +128,7 @@ To utilize and customize for your own use, click-on promaster/vanbuild.drawio.xm
 |12v distribution panel|48.9|0|https://www.amazon.com/Blue-Sea-Systems-Blade-Block/dp/B001P6FTHC/ref=as_li_ss_tl?ie=UTF8&qid=1463781520&sr=8-1&keywords=Blue+Sea+Systems+ST+Blade+Fuse+Block+-+12+Circuits+with+Negative+Bus+&+Cover=undefined&language=en_US&th=1|
 |Mixing Valve|50.0|2.0|https://www.amazon.com/Thermostatic-Mixing-Connections-Temperature-Control/dp/B08L17P49P/ref=asc_df_B08L17P49P/?tag=hyprod-20&linkCode=df0&hvadid=475737992302&hvpos=&hvnetw=g&hvrand=6739240262744600935&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1055424589642&psc=1|
 |80/20 15 2 hold flat plate|52.0|0|https://www.amazon.com/80-20-Inc-Straight-Plate/dp/B07W8VWZQ1/ref=sr_1_6?crid=28ZYYADH0VM2Q&keywords=80%2F20+2+hole+straight+flat+plate&qid=1678375793&s=industrial&sprefix=80%2F20+2+hole+straight+flat+plate%2Cindustrial%2C119&sr=1-6|
+|aluminum saw blade|53.0|0|https://www.amazon.com/D1080N-Diablo-10-Inch-Non-Ferrous-PermaShield/dp/B00008WQ38/ref=asc_df_B00008WQ38/?tag=&linkCode=df0&hvadid=310828259700&hvpos=&hvnetw=g&hvrand=12821840509704040372&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-434579618858&ref=&adgrpid=65583250281&th=1|
 |Sink Faucet|54.0|4.0|https://www.amazon.com/dp/B08929KFZX/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=03dfd3eba02d4039e0237ac74d49099c&content-id=amzn1.sym.7e9cd8c2-888c-46c4-82d2-714b2b703021%3Aamzn1.sym.7e9cd8c2-888c-46c4-82d2-714b2b703021&hsa_cr_id=3426060760501&pd_rd_plhdr=t&pd_rd_r=f483ba47-4ef0-4975-a8ab-88d6b08aeeaf&pd_rd_w=4Wzka&pd_rd_wg=KCXKn&qid=1674438635&ref_=sbx_be_s_sparkle_mcd_asin_1_img&sr=1-2-9e67e56a-6f64-441f-a281-df67fc737124&th=1|
 |mushroom vent|59.0|1.0|https://www.ebay.com/itm/173886445979?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=173886445979&targetid=1263433205974&device=c&mktype=&googleloc=9017832&poi=&campaignid=14859008593&mkgroupid=130497710760&rlsatarget=pla-1263433205974&abcId=9300678&merchantid=6296724&gclid=CjwKCAiAmJGgBhAZEiwA1JZolku2V9nfpzkexEsAyCEoCC24sOTESfl5Fo6EEUXpnX9rrzLbx_BjBRoCZasQAvD_BwE|
 |window suction cups|60.0|0|https://www.amazon.com/Hand-held-Capacity-Powerful-Industrial-Replacement/dp/B09XMSLVYQ/ref=asc_df_B09XMSLVYQ/?tag=hyprod-20&linkCode=df0&hvadid=598232355783&hvpos=&hvnetw=g&hvrand=4003881307909909064&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017832&hvtargid=pla-1686473249015&psc=1|
